@@ -1,0 +1,11 @@
+The system achieves this through a multi-stage process that involves data 
+collection, analysis, decision making, and communication. By continuously 
+monitoring the physical dynamics of the surroundings, the system can 
+identify weeds, through the data base that has been used to train yolo V3. 
+Upon detection, the system can give buzzer sound along with the pointing 
+laser on the weed. 
+Furthermore, the introduction of machine learning algorithms elevates the 
+system's capabilities by enabling it to learn from past data and improve 
+accuracy over time. As the system processes and analyses vast amounts of 
+data, it can recognize weeds and plants, and differentiate between them, 
+resulting in more reliable detection. 
